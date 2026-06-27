@@ -31,3 +31,23 @@ An AI-powered Android study assistant app built with Flutter and Spring Boot.
 1. Run `flutter pub get`
 2. Update API URL in each screen
 3. Run with `flutter run`
+
+## Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### AI Chat
+![AI Chat](screenshots/chat.png)
+
+### Quiz Generator
+![Quiz](screenshots/quiz.png)
+
+### Pomodoro Timer
+![Pomodoro](screenshots/pomodoro.png)
+
+### Analytics Dashboard
+![Analytics](screenshots/analytics.png)
+
+### Daily Planner
+![Planner](screenshots/planner.png)
