@@ -22,17 +22,17 @@ An AI-powered Android study assistant app built with Flutter and Spring Boot.
 - `/backend` - Spring Boot REST API
 
 ## Setup
-### Backend
+### backend
 1. Clone the repo
 2. Add your credentials to `application.properties`
 3. Run with IntelliJ IDEA
 
-### Frontend
+### frontend
 1. Run `flutter pub get`
 2. Update API URL in each screen
 3. Run with `flutter run`
 
-## Screenshots
+## screenshots
 
 ### Login Screen
 ![Login](screenshots/login.png)
